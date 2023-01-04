@@ -12,9 +12,9 @@ export default function Navbar() {
           Naoki Matsumoto
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
-        <a href="https://github.com/Divyajg" className="mr-5 hover:text-white">
+        {/* <a href="https://github.com/Divyajg" className="mr-5 hover:text-white">
           GitHub
-        </a>
+        </a> */}
         {/* <a href="https://linkedin.com/in/divya-jyothi-guttula" className="mr-5 hover:text-white">
           LinkedIn
         </a> */}
